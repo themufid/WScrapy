@@ -35,7 +35,7 @@ WScrapy is a web scraping tool designed to extract data from websites and save i
 
 ## Configuration
 
-Modify the `config.py` file to set the OUTPUT_PATH and adjust any other parameters as needed.
+Modify the `config.py` file to set the OUTPUT_PATH and adjust any other parameters as needed, and then change url in the `run.py` if you want start a web scraping  
 
 ## Usage
 
